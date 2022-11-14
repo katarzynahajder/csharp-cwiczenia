@@ -1,0 +1,39 @@
+C:\Users\uczen\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\uczen\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\uczen\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\uczen\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\uczen\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\uczen\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\uczen\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\uczen\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\uczen\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\uczen\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\uczen\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\uczen\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\uczen\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+E:\zapis i odczyt plikow tekstowych\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\zapis i odczyt plikow tekstowych\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\zapis i odczyt plikow tekstowych\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\zapis i odczyt plikow tekstowych\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\zapis i odczyt plikow tekstowych\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\zapis i odczyt plikow tekstowych\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\zapis i odczyt plikow tekstowych\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+E:\zapis i odczyt plikow tekstowych\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\zapis i odczyt plikow tekstowych\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\zapis i odczyt plikow tekstowych\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\zapis i odczyt plikow tekstowych\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\zapis i odczyt plikow tekstowych\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\zapis i odczyt plikow tekstowych\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+E:\C#\zapis i odczyt plikow tekstowych\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\C#\zapis i odczyt plikow tekstowych\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\C#\zapis i odczyt plikow tekstowych\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\C#\zapis i odczyt plikow tekstowych\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\C#\zapis i odczyt plikow tekstowych\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\C#\zapis i odczyt plikow tekstowych\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\C#\zapis i odczyt plikow tekstowych\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+E:\C#\zapis i odczyt plikow tekstowych\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\C#\zapis i odczyt plikow tekstowych\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\C#\zapis i odczyt plikow tekstowych\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\C#\zapis i odczyt plikow tekstowych\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\C#\zapis i odczyt plikow tekstowych\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\C#\zapis i odczyt plikow tekstowych\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
